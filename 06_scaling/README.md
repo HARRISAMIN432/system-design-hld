@@ -973,5 +973,3 @@ Think of a pizza shop:
 The central lesson is that **scaling is not simply about adding CPU cores or servers. It is about increasing useful system capacity without allowing bottlenecks, coordination overhead, or failures to undermine the result.**
 
 ---
-
-**Previous:** [Chapter 6 — Network Protocols](../Chapter-06-Network-Protocols/README.md) · **Back to start:** [Chapter 1 — Roadmap](../Chapter-01-Course-Roadmap/README.md)

@@ -1863,7 +1863,3 @@ The same physical component may perform more than one of these responsibilities.
 **The most important lesson:** Understand what decision must be made, which component makes it, and how the system behaves when that decision or its destination fails.
 
 ---
-
-**Previous:** [Chapter 2 — Monolith vs Microservices](../Chapter-02-Monolith-vs-Microservices/README.md)
-
-**Next:** [Chapter 4 — Load Balancing Algorithms and Types](../Chapter-04-Load-Balancing-Algorithms-and-Types/README.md)

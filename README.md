@@ -194,4 +194,4 @@ Adjust to your own pace. Depth beats speed.
 
 ---
 
-**Next:** [Chapter 2 — Monolith vs Microservices](../Chapter-02-Monolith-vs-Microservices/README.md)
+**Next:** [Chapter 2 — Monolith vs Microservices](../01_monolith_vs_microservices/README.md)

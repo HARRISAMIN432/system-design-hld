@@ -1850,5 +1850,3 @@ L4 and L7 describe the information available for routing. The algorithms describ
 Understanding all three dimensions is what turns knowledge of load balancing from a list of definitions into practical distributed-systems engineering.
 
 ---
-
-**Previous:** [Chapter 3 — API Gateway vs. Load Balancer](../Chapter-03-API-Gateway-vs-Load-Balancer/README.md) · **Next:** [Chapter 5 — Proxy vs. Reverse Proxy](../Chapter-05-Proxy-vs-Reverse-Proxy/README.md)

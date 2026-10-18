@@ -1390,7 +1390,3 @@ A forward proxy represents the client. A reverse proxy represents the server. Th
 The best architectural decision comes from understanding the problem first, assigning clear responsibilities, and avoiding unnecessary layers.
 
 ---
-
-**Previous:** [Chapter 4 — Load Balancing Algorithms and Types](../Chapter-04-Load-Balancing-Algorithms-and-Types/README.md)
-
-**Back to start:** [Chapter 1 — Course Roadmap](../Chapter-01-Course-Roadmap/README.md)

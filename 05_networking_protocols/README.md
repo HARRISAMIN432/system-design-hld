@@ -1659,5 +1659,3 @@ Then consider the requirements that cut across these layers: security, latency, 
 Mastering these distinctions makes it easier to reason about API design, load balancing, distributed systems, real-time applications, and network troubleshooting.
 
 ---
-
-**Previous:** [Chapter 5 — Proxy vs Reverse Proxy](../Chapter-05-Proxy-vs-Reverse-Proxy/README.md) · **Next:** [Chapter 7 — Scaling](../Chapter-07-Scaling-Horizontal-vs-Vertical/README.md)
