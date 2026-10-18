@@ -193,5 +193,3 @@ Adjust to your own pace. Depth beats speed.
 5. Why does the capstone include a seat-booking scenario?
 
 ---
-
-**Next:** [Chapter 2 — Monolith vs Microservices](../01_monolith_vs_microservices/README.md)
